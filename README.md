@@ -13,7 +13,7 @@
   <tr>
     <td><strong>Reach me -</strong></td>
     <td>
-      <a href="tatvagyanahar@gmail.com" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:tatvagyanahar@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
       </a>
     </td>
