@@ -82,6 +82,8 @@
   <img width="12" />
   <a href="https://miro.com/" target="_blank" rel="noopener noreferrer"><img src="https://yt3.googleusercontent.com/lxYO3EWE0XCiPcwcrLp8iLIpeZ9siH-iYpAzIYR5zRJRv4QIPly_yH9xqIJlTQ4VI9uYhBuWig=s160-c-k-c0x00ffffff-no-rj" height="30" alt="miro logo"  /></a>
   <img width="12" />
+  <a href="https://www.figma.com/design/" target="_blank" rel="noopener noreferrer"><img src="https://yt3.googleusercontent.com/ngETsVZZAu_yzAo9iGz-P9Fxd6Bk1gCSI5l3bMDftuADKM-zRsn689V8vzHuTBDZbfw061M0dw=s160-c-k-c0x00ffffff-no-rj" height="30" alt="miro logo"  /></a>
+  <img width="12" />
 </div>
 
 ###
