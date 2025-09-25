@@ -25,7 +25,7 @@
 </div>
 
 <div align="left">
-  <h4>Web Development and Version Control</h4>
+  <h3>Web Development and Version Control</h3>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
   <img width="12" />
   <a href="https://css3.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
@@ -47,7 +47,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="12" />
   <br>
-  <h4>Programming Languages</h4>
+  <h3>Programming Languages</h3>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
   <img width="12" />
   <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  /></a>
@@ -59,7 +59,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></a>
   <img width="12" />
   <br>
-  <h4>Development Tools</h4>
+  <h3>Development Tools</h3>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /></a>
   <img width="12" />
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  /></a>
@@ -69,7 +69,7 @@
   <a href="https://www.kaggle.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="30" alt="kaggle logo"  /></a>
   <img width="12" />
   <br>
-  <h4>Design Tools</h4>
+  <h3>Design Tools</h3>
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  /></a>
   <img width="12" />
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" height="30" alt="illustrator logo"  /></a>
