@@ -88,7 +88,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tatvagya23554/tatvagya23554/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/tatvagya23554/tatvagya23554/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/tatvagya23554/tatvagya23554/output/snake.svg?color_dots=161B22,0E4429,006D32,26A641,39D353" alt="Snake animation" />
 
 ###
 
